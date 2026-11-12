@@ -1,0 +1,17 @@
+# Configuración local (credenciales y salts)
+wp-config.php
+
+# Temporales de WordPress
+wp-content/upgrade/
+wp-content/upgrade-temp-backup/
+wp-content/cache/
+wp-content/debug.log
+*.log
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.claude/

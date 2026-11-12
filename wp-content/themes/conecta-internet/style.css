@@ -1,0 +1,18 @@
+/*
+Theme Name: Conecta Internet
+Theme URI: https://example.com/conecta-internet
+Author: Tu Empresa
+Author URI: https://example.com
+Description: Tema de bloques (FSE) para empresas de servicios de internet: fibra óptica, banda ancha empresarial y soporte técnico. Incluye secciones de hero, catálogo de servicios, planes de precios y contacto.
+Requires at least: 6.4
+Tested up to: 6.7
+Requires PHP: 7.4
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: conecta-internet
+Tags: block-theme, full-site-editing, business, one-column
+
+Conecta Internet es un tema hijo conceptual construido desde cero usando
+la arquitectura de bloques de WordPress (theme.json + plantillas HTML).
+*/

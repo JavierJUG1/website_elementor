@@ -1,0 +1,284 @@
+.elementor-kit-13{--e-global-color-primary:#FF6900;--e-global-color-secondary:#0B0B0C;--e-global-color-text:#52525B;--e-global-color-accent:#111111;--e-global-color-gfblack:#000000;--e-global-color-gfwhite:#FFFFFF;--e-global-color-gfsurface:#F5F5F5;--e-global-color-gfborder:#E4E4E7;--e-global-color-gfline:#2B2C31;--e-global-color-gforangeh:#E55E00;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:700;--e-global-typography-secondary-font-family:"Roboto";--e-global-typography-secondary-font-weight:600;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:300;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:600;--e-global-typography-gfh1-font-family:"Roboto";--e-global-typography-gfh1-font-size:54px;--e-global-typography-gfh1-font-weight:700;--e-global-typography-gfh1-line-height:64px;--e-global-typography-gfh2-font-family:"Roboto";--e-global-typography-gfh2-font-size:38px;--e-global-typography-gfh2-font-weight:700;--e-global-typography-gfh2-line-height:46px;--e-global-typography-gfh3-font-family:"Roboto";--e-global-typography-gfh3-font-size:24px;--e-global-typography-gfh3-font-weight:700;--e-global-typography-gfh3-line-height:30px;--e-global-typography-gfh4-font-family:"Roboto";--e-global-typography-gfh4-font-size:18px;--e-global-typography-gfh4-font-weight:600;--e-global-typography-gfh4-line-height:24px;--e-global-typography-gflead-font-family:"Roboto";--e-global-typography-gflead-font-size:19px;--e-global-typography-gflead-font-weight:300;--e-global-typography-gflead-line-height:29px;--e-global-typography-gfsub-font-family:"Roboto";--e-global-typography-gfsub-font-size:17px;--e-global-typography-gfsub-font-weight:300;--e-global-typography-gfsub-line-height:26px;--e-global-typography-gfbody-font-family:"Roboto";--e-global-typography-gfbody-font-size:16px;--e-global-typography-gfbody-font-weight:300;--e-global-typography-gfbody-line-height:25px;--e-global-typography-gfsmall-font-family:"Roboto";--e-global-typography-gfsmall-font-size:14px;--e-global-typography-gfsmall-font-weight:300;--e-global-typography-gfsmall-line-height:21px;--e-global-typography-gfcaption-font-family:"Roboto";--e-global-typography-gfcaption-font-size:13px;--e-global-typography-gfcaption-font-weight:400;--e-global-typography-gfcaption-line-height:20px;--e-global-typography-gfeyebrow-font-family:"Roboto";--e-global-typography-gfeyebrow-font-size:12px;--e-global-typography-gfeyebrow-font-weight:500;--e-global-typography-gfeyebrow-text-transform:uppercase;--e-global-typography-gfeyebrow-line-height:16px;--e-global-typography-gfeyebrow-letter-spacing:1px;--e-global-typography-gfbtn-font-family:"Roboto";--e-global-typography-gfbtn-font-size:16px;--e-global-typography-gfbtn-font-weight:600;--e-global-typography-gfbtn-line-height:24px;--e-global-typography-gfstat-font-family:"Roboto";--e-global-typography-gfstat-font-size:46px;--e-global-typography-gfstat-font-weight:700;--e-global-typography-gfstat-line-height:54px;--e-global-typography-gfquote-font-family:"Roboto";--e-global-typography-gfquote-font-size:17px;--e-global-typography-gfquote-font-weight:300;--e-global-typography-gfquote-line-height:27px;--e-global-typography-gfnav-font-family:"Roboto";--e-global-typography-gfnav-font-size:17px;--e-global-typography-gfnav-font-weight:600;--e-global-typography-gfnav-line-height:24px;background-color:#FFFFFF;color:#52525B;font-family:"Roboto", Sans-serif;font-size:16px;font-weight:300;line-height:25px;}.elementor-kit-13 e-page-transition{background-color:#FFBC7D;}.elementor-kit-13 a{color:#FF6900;}.elementor-kit-13 a:hover{color:#E55E00;}.elementor-kit-13 h1{color:#111111;font-family:"Roboto", Sans-serif;font-weight:700;}.elementor-kit-13 h2{color:#111111;font-family:"Roboto", Sans-serif;font-weight:700;}.elementor-kit-13 h3{color:#111111;font-family:"Roboto", Sans-serif;font-weight:700;}.elementor-kit-13 h4{color:#111111;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-kit-13 h5{color:#111111;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-kit-13 h6{color:#111111;font-family:"Roboto", Sans-serif;font-weight:600;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1200px;}.e-con{--container-max-width:1200px;--container-default-padding-top:0px;--container-default-padding-right:0px;--container-default-padding-bottom:0px;--container-default-padding-left:0px;}.elementor-widget:not(:last-child){--kit-widget-spacing:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-kit-13{--e-global-typography-gfh1-font-size:44px;--e-global-typography-gfh1-line-height:52px;--e-global-typography-gfh2-font-size:32px;--e-global-typography-gfh2-line-height:40px;--e-global-typography-gfh3-font-size:22px;--e-global-typography-gfh3-line-height:28px;--e-global-typography-gflead-font-size:18px;--e-global-typography-gflead-line-height:28px;--e-global-typography-gfstat-font-size:40px;--e-global-typography-gfstat-line-height:48px;--e-global-typography-gfnav-font-size:16px;--e-global-typography-gfnav-line-height:22px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-13{--e-global-typography-gfh1-font-size:34px;--e-global-typography-gfh1-line-height:41px;--e-global-typography-gfh2-font-size:26px;--e-global-typography-gfh2-line-height:32px;--e-global-typography-gfh3-font-size:21px;--e-global-typography-gfh3-line-height:27px;--e-global-typography-gfh4-font-size:17px;--e-global-typography-gfh4-line-height:24px;--e-global-typography-gflead-font-size:17px;--e-global-typography-gflead-line-height:26px;--e-global-typography-gfsub-font-size:15px;--e-global-typography-gfsub-line-height:23px;--e-global-typography-gfbody-font-size:15px;--e-global-typography-gfbody-line-height:24px;--e-global-typography-gfsmall-font-size:14px;--e-global-typography-gfsmall-line-height:21px;--e-global-typography-gfcaption-font-size:13px;--e-global-typography-gfcaption-line-height:20px;--e-global-typography-gfeyebrow-font-size:11px;--e-global-typography-gfeyebrow-line-height:15px;--e-global-typography-gfbtn-font-size:16px;--e-global-typography-gfbtn-line-height:24px;--e-global-typography-gfstat-font-size:34px;--e-global-typography-gfstat-line-height:40px;--e-global-typography-gfquote-font-size:16px;--e-global-typography-gfquote-line-height:25px;--e-global-typography-gfnav-font-size:16px;--e-global-typography-gfnav-line-height:24px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS *//* =====================================================================
+   Gigafibra · estilos globales (Elementor › Ajustes del sitio › CSS personalizado)
+   Colores y tipografías vienen de las variables globales del Kit:
+   --e-global-color-primary (#FF6900), secondary (#0B0B0C), text (#52525B),
+   accent (#111111), gfsurface (#F5F5F5), gfborder (#E4E4E7), gfline (#2B2C31)
+   ===================================================================== */
+:root{--gf-ease:cubic-bezier(.2,.7,.2,1);--gf-orange:var(--e-global-color-primary,#FF6900);--gf-border:var(--e-global-color-gfborder,#E4E4E7);--gf-line:var(--e-global-color-gfline,#2B2C31)}
+html{scroll-behavior:smooth}
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;overflow-x:hidden}
+.gf-hl{color:var(--gf-orange)}
+.gf-nowrap{white-space:nowrap}
+.elementor-widget-text-editor p{margin-block-start:0;margin-block-end:.8em}
+.elementor-widget-text-editor p:last-child,.elementor-widget-text-editor ul:last-child,.elementor-widget-text-editor ol:last-child{margin-block-end:0}
+.elementor-widget-text-editor a{color:var(--gf-orange);text-decoration:underline;text-underline-offset:2px}
+.elementor-widget-heading .elementor-heading-title a{color:inherit}
+
+/* Accesibilidad: foco visible (anillo naranja 3px) */
+a:focus-visible,button:focus-visible,.elementor-button:focus-visible,[role=button]:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,.elementor-tab-title:focus-visible,.elementor-accordion-title:focus-visible{outline:3px solid var(--gf-orange)!important;outline-offset:3px}
+.elementor-field-group .elementor-field:focus{box-shadow:0 0 0 3px rgba(255,105,0,.35)!important;border-color:var(--gf-orange)!important}
+.screen-reader-text{clip:rect(1px,1px,1px,1px);position:absolute!important;height:1px;width:1px;overflow:hidden}
+
+/* ---------- Animaciones de entrada (fade + translateY 20px / 400ms) ---------- */
+@keyframes gfFadeInUp{from{opacity:0;transform:translate3d(0,20px,0)}to{opacity:1;transform:none}}
+@keyframes gfFadeIn{from{opacity:0}to{opacity:1}}
+.elementor-element.animated.fadeInUp{animation-name:gfFadeInUp}
+.elementor-element.animated.animated-fast{animation-duration:.4s;animation-timing-function:var(--gf-ease)}
+
+/* ---------- Botones ---------- */
+.gf-btn .elementor-button{line-height:24px;transition:background-color .2s var(--gf-ease),color .2s,border-color .2s,transform .2s var(--gf-ease),box-shadow .2s var(--gf-ease)}
+.gf-btn .elementor-button:hover{transform:translateY(-2px)}
+.gf-btn .elementor-button:active{transform:translateY(0)}
+.gf-btn--primary .elementor-button:hover,.gf-btn--primary-white .elementor-button:hover{box-shadow:0 10px 24px -8px rgba(255,105,0,.55)}
+.gf-btn--dark .elementor-button:hover{box-shadow:0 10px 24px -10px rgba(0,0,0,.6)}
+.gf-btn--link .elementor-button{padding:0;border-radius:0}
+.gf-btn--link .elementor-button:hover{transform:none}
+.gf-btn--link .elementor-button-icon{transition:transform .2s var(--gf-ease)}
+.gf-btn--link .elementor-button:hover .elementor-button-icon{transform:translateX(4px)}
+.gf-btn--link .elementor-button-icon svg{width:.9em;height:.9em}
+
+/* ---------- Tarjetas (hover: elevación 0→8px, 200ms) ---------- */
+.gf-hover{transition:transform .2s ease-out,box-shadow .2s ease-out,border-color .2s ease-out;will-change:transform}
+.gf-hover:hover{transform:translateY(-6px);box-shadow:0 14px 32px -12px rgba(17,17,17,.18)}
+.gf-card--plan{box-shadow:0 8px 12px rgba(0,0,0,.08)}
+.gf-card--plan:hover{box-shadow:0 18px 36px -12px rgba(17,17,17,.22)}
+.gf-benefit .gf-chip{transition:background-color .2s ease-out}
+.gf-benefit .gf-chip .elementor-icon{transition:color .2s ease-out,fill .2s ease-out}
+.gf-benefit:hover .gf-chip{background-color:var(--gf-orange)!important}
+.gf-benefit:hover .gf-chip .elementor-icon,.gf-benefit:hover .gf-chip .elementor-icon svg{color:#fff!important;fill:#fff!important}
+.gf-segment .gf-ph{transition:transform .3s ease-out}
+.gf-segment:hover .gf-ph{transform:scale(1.03)}
+.gf-dark-card{transition:border-color .2s ease-out,transform .2s ease-out,background-color .2s}
+.gf-dark-card:hover{border-color:rgba(255,105,0,.6)!important;transform:translateY(-4px)}
+
+/* Tarjeta de plan */
+.gf-card--plan .gf-actions{margin-top:auto}
+.gf-plus{color:var(--gf-orange);font-weight:700;font-size:18px;line-height:22px;margin-right:10px;display:inline-block}
+.gf-avatar{flex:0 0 44px}
+.gf-avatar .elementor-heading-title{line-height:44px}
+/* Panel que sangra al borde derecho (Tecnología) */
+@media (min-width:1025px){.gf-bleed{margin-right:min(-24px,calc((1200px - 100vw) / 2))!important;border-top-right-radius:0!important;border-bottom-right-radius:0!important}}
+@media (max-width:767px){.gf-bleed{margin-left:-20px!important;margin-right:-20px!important;width:calc(100% + 40px)!important;max-width:none!important;border-radius:0!important;border-left:0!important;border-right:0!important}.gf-bleed .gf-parallax-scroll{animation:none!important}}
+/* Parallax ligero (solo navegadores con scroll-driven animations) */
+@keyframes gfParallax{from{transform:translateY(0)}to{transform:translateY(-20px)}}
+@supports (animation-timeline:view()){@media (prefers-reduced-motion:no-preference){.gf-parallax-scroll{animation:gfParallax linear both;animation-timeline:view();animation-range:entry 0% exit 100%}}}
+.gf-quote blockquote{margin:0;padding:0;border:0;font-style:normal;quotes:none}
+.gf-quote blockquote p{margin:0}
+/* Etiqueta "Más elegido" */
+.gf-plan-tag{position:absolute!important;top:20px;right:24px;z-index:2}
+
+/* ---------- Badges ---------- */
+.gf-badge .elementor-heading-title{white-space:nowrap}
+
+/* ---------- Paneles de imagen pendiente (marcadores del diseño) ---------- */
+.gf-ph{position:relative;isolation:isolate}
+.gf-ph--dark{background:#141416 url(/wordpress/wp-content/uploads/2026/10/fondo-degradado-gigafibra.webp) center/cover no-repeat;border:1px solid var(--gf-line)}
+.gf-ph--dark::before{content:"";position:absolute;inset:0;background:linear-gradient(160deg,rgba(11,11,12,.92) 20%,rgba(11,11,12,.35) 100%);z-index:-1}
+.gf-ph--light{background:radial-gradient(90% 80% at 85% 100%,rgba(255,105,0,.16),rgba(255,105,0,0) 60%),linear-gradient(135deg,#F5F5F5,#EDEDEF)}
+.gf-ph__icon .elementor-icon{opacity:.9}
+.gf-ph--light .gf-ph__icon .elementor-icon{background:#fff;border-radius:24px;padding:22px;box-shadow:0 12px 30px -14px rgba(17,17,17,.25)}
+
+/* Red de fibra animada (hero) */
+.gf-net{position:relative;width:100%;height:100%;min-height:inherit;border-radius:inherit;overflow:hidden}
+.gf-net svg{display:block;width:100%;height:100%}
+.gf-net .gf-net__link{stroke:rgba(255,255,255,.14);stroke-width:1.2;fill:none}
+.gf-net .gf-net__pulse{stroke:var(--gf-orange);stroke-width:2.2;fill:none;stroke-linecap:round;stroke-dasharray:8 100;animation:gfPulse 3.6s linear infinite}
+.gf-net .gf-net__node{fill:#1d1d20;stroke:rgba(255,255,255,.28);stroke-width:1.2}
+.gf-net .gf-net__node--hub{fill:var(--gf-orange);stroke:none}
+.gf-net .gf-net__halo{fill:var(--gf-orange);opacity:.18;transform-box:fill-box;transform-origin:center;animation:gfHalo 2.8s ease-out infinite}
+.gf-net .gf-net__dot{fill:#fff;opacity:.85;transform-box:fill-box;transform-origin:center;animation:gfBlink 3.2s ease-in-out infinite}
+@keyframes gfPulse{from{stroke-dashoffset:8}to{stroke-dashoffset:-100}}
+@keyframes gfHalo{0%{transform:scale(.6);opacity:.35}100%{transform:scale(2.2);opacity:0}}
+@keyframes gfBlink{0%,100%{opacity:.35}50%{opacity:1}}
+
+/* ---------- Selector de estrato (Planes) ---------- */
+.gf-seg{position:relative;isolation:isolate;display:flex;gap:4px;padding:4px;background:var(--e-global-color-gfsurface,#F5F5F5);border:1px solid var(--gf-border);border-radius:999px;width:100%;max-width:430px;margin:0 auto;box-shadow:inset 0 1px 2px rgba(17,17,17,.06);--gf-seg-x:0px}
+.gf-seg[data-active="46"]{--gf-seg-x:calc(100% + 4px)}
+/* Pastilla deslizante (interruptor): rebote tipo resorte al cambiar */
+.gf-seg::before{content:"";position:absolute;z-index:0;top:4px;bottom:4px;left:4px;width:calc(50% - 6px);border-radius:999px;background:#fff;box-shadow:0 1px 2px rgba(17,17,17,.08),0 6px 14px -4px rgba(17,17,17,.18),inset 0 0 0 1px rgba(255,105,0,.10);translate:var(--gf-seg-x) 0;transition:translate .55s cubic-bezier(.34,1.45,.5,1)}
+.gf-seg.is-switching::before{animation:gfSegSquish .55s cubic-bezier(.3,.7,.3,1)}
+@keyframes gfSegSquish{0%{scale:1 1}30%{scale:1.10 .90}62%{scale:.98 1.03}100%{scale:1 1}}
+.gf-seg__opt{position:relative;z-index:1;flex:1 1 0;height:44px;border:0;border-radius:999px;background:transparent!important;display:inline-flex;align-items:center;justify-content:center;gap:9px;font-family:Roboto,sans-serif;font-size:15px;line-height:20px;font-weight:400;color:var(--e-global-color-text,#52525B);cursor:pointer;padding:0 12px;transition:color .25s ease,transform .15s var(--gf-ease);-webkit-tap-highlight-color:transparent}
+/* Indicador on/off */
+.gf-seg__opt::before{content:"";flex:0 0 auto;width:8px;height:8px;border-radius:50%;background:#D4D4D8;box-shadow:0 0 0 0 rgba(255,105,0,0);transition:background-color .3s ease,box-shadow .35s ease,transform .35s cubic-bezier(.34,1.6,.5,1)}
+.gf-seg__opt:hover:not(.is-active){color:var(--e-global-color-accent,#111)}
+.gf-seg__opt:hover:not(.is-active)::before{background:#A1A1AA}
+.gf-seg__opt.is-active{color:var(--e-global-color-accent,#111);font-weight:600}
+.gf-seg__opt.is-active::before{background:var(--gf-orange);box-shadow:0 0 0 4px rgba(255,105,0,.18),0 0 10px rgba(255,105,0,.55);transform:scale(1.15)}
+/* Clic: el botón se hunde levemente */
+.gf-seg__opt:active{transform:scale(.95)}
+.gf-seg__opt:focus-visible{outline-offset:-3px!important}
+.gf-seg__label{display:block;text-align:center;font-family:Roboto,sans-serif;font-size:14px;line-height:20px;font-weight:500;color:var(--e-global-color-text,#52525B);margin:0 0 10px}
+.gf-plans .gf-v46{display:none}
+.gf-plans.gf-is-46 .gf-v13{display:none}
+.gf-plans.gf-is-46 .gf-v46{display:block}
+.gf-plans .gf-v13,.gf-plans .gf-v46{animation:gfFadeIn .2s ease-out}
+.gf-price-row{align-items:baseline!important}
+.gf-plus-list .elementor-icon-list-icon{align-self:flex-start}
+
+/* ---------- Contadores ---------- */
+.gf-counter .elementor-counter{align-items:flex-start;text-align:start;flex-direction:column-reverse;justify-content:flex-end}
+.gf-counter .elementor-counter-number-wrapper{justify-content:flex-start;flex-grow:0;text-align:start}
+.gf-counter .elementor-counter-title{text-align:start;margin-top:6px;flex-grow:0;justify-content:flex-start}
+.gf-counter--center .elementor-counter,.gf-counter--center .elementor-counter-number-wrapper,.gf-counter--center .elementor-counter-title{align-items:center;justify-content:center;text-align:center}
+
+/* ---------- Preguntas frecuentes (acordeón) ---------- */
+.gf-faq .elementor-accordion{display:flex;flex-direction:column;gap:12px}
+.gf-faq .elementor-accordion .elementor-accordion-item{background:#fff;border:1px solid var(--gf-border)!important;border-radius:16px;overflow:hidden;transition:border-color .2s,box-shadow .2s}
+.gf-faq .elementor-accordion .elementor-accordion-item:hover{border-color:#d4d4d8!important;box-shadow:0 6px 18px -10px rgba(17,17,17,.18)}
+.gf-faq .elementor-accordion .elementor-tab-title{padding:22px 24px;border:0!important;display:flex;align-items:flex-start;gap:16px;line-height:26px}
+.gf-faq .elementor-accordion .elementor-tab-title .elementor-accordion-title{flex:1 1 auto;color:inherit;text-decoration:none;order:1}
+.gf-faq .elementor-accordion .elementor-accordion-icon{order:2;float:none;width:auto;flex:0 0 auto;font-size:16px;line-height:26px}
+.gf-faq .elementor-accordion .elementor-accordion-icon svg{width:16px;height:16px}
+.gf-faq .elementor-accordion .elementor-tab-content{padding:0 24px 22px;border:0!important}
+.gf-faq .elementor-tab-title.elementor-active .elementor-accordion-icon-opened{animation:gfSpin .25s ease-out}
+@keyframes gfSpin{from{transform:rotate(-90deg);opacity:.4}to{transform:none;opacity:1}}
+@media (max-width:767px){.gf-faq .elementor-accordion .elementor-tab-title{padding:18px}.gf-faq .elementor-accordion .elementor-tab-content{padding:0 18px 18px}}
+
+/* ---------- Formularios ---------- */
+.gf-form .elementor-field-group{margin-bottom:0}
+.gf-form .elementor-field-group .elementor-field-textual,.gf-form .elementor-field-group select{min-height:56px;border-radius:16px!important;background:var(--e-global-color-gfsurface,#F5F5F5)!important;border:1px solid var(--gf-border)!important;padding:0 16px;font-size:16px;color:var(--e-global-color-accent,#111)}
+.gf-form .elementor-field-group textarea.elementor-field-textual{padding:14px 16px;min-height:120px}
+.gf-form .elementor-field-label{font-size:13px;line-height:18px;font-weight:500;color:var(--e-global-color-text,#52525B);margin-bottom:6px}
+.gf-form .elementor-button,.gf-form .elementor-field-group .elementor-button{min-height:56px!important;border-radius:999px!important;font-weight:600;transition:background-color .2s,transform .2s var(--gf-ease),box-shadow .2s}
+.gf-form .elementor-button:hover{transform:translateY(-2px);box-shadow:0 10px 24px -8px rgba(255,105,0,.55)}
+.gf-form .elementor-message{font-size:15px}
+.gf-form--dark .elementor-field-group .elementor-field-textual,.gf-form--dark .elementor-field-group select{background:rgba(255,255,255,.06)!important;border-color:var(--gf-line)!important;color:#fff}
+.gf-form--dark .elementor-field-label{color:rgba(255,255,255,.75)}
+
+/* ---------- Encabezado ---------- */
+.gf-header .elementor-nav-menu--main .elementor-item{transition:color .2s}
+.gf-header .elementor-nav-menu--main .gf-menu-mobile-only{display:none}
+.gf-header .elementor-nav-menu--dropdown{border-top:1px solid #1c1c1f}
+.gf-header .elementor-menu-toggle{width:44px;height:44px;display:flex;align-items:center;justify-content:center}
+.gf-header .gf-btn .elementor-button:hover{transform:none;box-shadow:none}
+.gf-logo img{display:block}
+@media (min-width:1025px) and (max-width:1200px){
+  .gf-header{padding-left:32px!important}
+  .gf-header .elementor-nav-menu--main .elementor-nav-menu>li:not(:last-child){margin-inline-end:20px!important}
+}
+
+/* ---------- Pie de página ---------- */
+.gf-footer .elementor-icon-list-item a{transition:color .2s,opacity .2s}
+.gf-footer .gf-fcol .elementor-icon-list-text{opacity:.72;transition:opacity .2s,color .2s}
+.gf-footer .gf-fcol .elementor-icon-list-item:hover .elementor-icon-list-text{opacity:1}
+.gf-toggle{display:none}
+@media (max-width:767px){
+  .gf-footer .gf-fcol{border-top:1px solid var(--gf-line)!important;padding-top:20px!important}
+  .gf-fcol__head,.gf-toc__head{cursor:pointer}
+  .gf-fcol__head .elementor-heading-title,.gf-toc__head .elementor-heading-title{display:flex;justify-content:space-between;align-items:center;gap:12px}
+  .gf-fcol__head,.gf-fcol__head .elementor-widget,.gf-toc__head,.gf-toc__head .elementor-widget{width:100%}
+  .gf-toggle{display:inline-block;color:var(--gf-orange);font-size:20px;font-weight:700;line-height:1;transition:transform .25s ease-out}
+  .gf-fcol.is-collapsed .gf-fcol__list,.gf-toc.is-collapsed .elementor-widget-text-editor{display:none}
+  .gf-fcol:not(.is-collapsed) .gf-toggle,.gf-toc:not(.is-collapsed) .gf-toggle{transform:rotate(45deg)}
+  .gf-toc__head .elementor-heading-title{color:var(--e-global-color-accent,#111)!important;font-weight:600}
+}
+/* Índice de documentos */
+.gf-toc{position:sticky!important;top:96px;align-self:flex-start}
+@media (max-width:1024px){.gf-toc{position:relative!important;top:auto}}
+.gf-toc__list{list-style:none;margin:0!important;padding:0!important;display:flex;flex-direction:column;gap:12px}
+.gf-toc__list li{margin:0}
+.gf-toc__list a{color:var(--e-global-color-accent,#111)!important;text-decoration:none!important;transition:color .2s}
+.gf-toc__list a:hover,.gf-toc__list a.is-active{color:var(--gf-orange)!important}
+.gf-doc-section{scroll-margin-top:16px}
+.gf-pending{border-left:3px solid var(--gf-border);padding-left:14px;font-style:italic}
+.gf-footer-contact a{color:inherit!important;text-decoration:none!important}
+.gf-footer-contact a:hover{color:var(--gf-orange)!important}
+.gf-social .elementor-social-icon{transition:background-color .2s var(--gf-ease),transform .2s var(--gf-ease)}
+.gf-social .elementor-social-icon:hover{transform:translateY(-2px)}
+.gf-legal a{color:inherit;text-decoration:none;transition:color .2s}
+.gf-legal a:hover{color:var(--gf-orange)}
+
+/* ---------- Botón flotante WhatsApp y CTA fija móvil ---------- */
+.gf-fab{z-index:90}
+.gf-fab a{display:block;border-radius:50%;box-shadow:0 10px 24px -6px rgba(0,0,0,.35);transition:transform .2s var(--gf-ease),box-shadow .2s}
+.gf-fab a:hover{transform:scale(1.06);box-shadow:0 14px 30px -8px rgba(0,0,0,.45)}
+.gf-fab img{display:block;width:56px;height:56px}
+.gf-sticky-cta{z-index:89;box-shadow:0 -6px 20px -12px rgba(0,0,0,.25)}
+@media (max-width:767px){
+  body.home{padding-bottom:88px}
+  .gf-fab{right:16px!important;left:auto!important}
+  body.home .gf-fab{bottom:104px!important}
+}
+
+/* ---------- Documentos legales ---------- */
+.gf-doc h2,.gf-doc h3{color:var(--e-global-color-accent,#111);font-family:Roboto,sans-serif}
+.gf-doc ul,.gf-doc ol{padding-inline-start:1.25em;margin:0 0 .8em}
+.gf-doc li{margin-bottom:.35em}
+.gf-download{transition:border-color .2s,box-shadow .2s,transform .2s ease-out}
+.gf-download:hover{border-color:var(--gf-orange)!important;transform:translateY(-3px);box-shadow:0 12px 26px -14px rgba(17,17,17,.25)}
+.gf-breadcrumb a{color:inherit;text-decoration:none}
+.gf-breadcrumb a:hover{color:var(--gf-orange)}
+
+/* =====================================================================
+   Animaciones modernas (todas se desactivan con prefers-reduced-motion)
+   ===================================================================== */
+html{scroll-padding-top:84px}
+@media (max-width:1024px){html{scroll-padding-top:72px}}
+
+/* Barra de progreso de lectura */
+.gf-progress{position:fixed;top:0;left:0;right:0;height:3px;z-index:9999;pointer-events:none;background:linear-gradient(90deg,#FF6900,#FFB070);transform-origin:0 50%;transform:scaleX(var(--gf-p,0));will-change:transform}
+
+/* Cabecera: se compacta y se vuelve translúcida al hacer scroll */
+.gf-header{transition:background-color .35s var(--gf-ease),box-shadow .35s var(--gf-ease),min-height .35s var(--gf-ease)}
+.gf-header .gf-logo img{transition:width .35s var(--gf-ease)}
+.gf-header.elementor-sticky--effects{background-color:rgba(0,0,0,.78)!important;-webkit-backdrop-filter:saturate(1.4) blur(14px);backdrop-filter:saturate(1.4) blur(14px);box-shadow:0 14px 34px -22px rgba(0,0,0,.9)}
+@media (min-width:1025px){.gf-header.elementor-sticky--effects{--min-height:72px!important}.gf-header.elementor-sticky--effects .gf-logo img{width:132px!important}}
+
+/* Títulos H1: palabras que suben desde una máscara */
+.gf-w{display:inline-block;overflow:hidden;vertical-align:top;padding-bottom:.14em;margin-bottom:-.14em}
+.gf-w__i{display:inline-block}
+.gf-split-ready{animation:none!important;visibility:visible!important;opacity:1!important}
+@keyframes gfWordUp{from{transform:translateY(110%)}to{transform:none}}
+@keyframes gfShimmer{from{background-position:0% 50%}to{background-position:-200% 50%}}
+@media (prefers-reduced-motion:no-preference){
+  .gf-split-run .gf-w__i{animation:gfWordUp .8s cubic-bezier(.2,.75,.2,1) both;animation-delay:calc(var(--i,0) * 55ms + 120ms)}
+  h1:not(.gf-split-run) .gf-hl,.gf-split-run .gf-hl .gf-w__i{background-image:linear-gradient(90deg,#FF6900 0%,#FFB070 25%,#FF6900 50%,#FFB070 75%,#FF6900 100%);background-size:200% 100%;-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+  h1:not(.gf-split-run) .gf-hl{animation:gfShimmer 7s linear infinite}
+  .gf-split-run .gf-hl .gf-w__i{animation-name:gfWordUp,gfShimmer;animation-duration:.8s,7s;animation-timing-function:cubic-bezier(.2,.75,.2,1),linear;animation-iteration-count:1,infinite;animation-fill-mode:both,none}
+}
+
+/* Entradas al hacer scroll: suben con un leve desenfoque (escritorio) */
+@media (min-width:1025px) and (prefers-reduced-motion:no-preference){
+  @keyframes gfFadeInUp{from{opacity:0;transform:translate3d(0,24px,0);filter:blur(6px)}to{opacity:1;transform:none;filter:none}}
+}
+
+/* Tarjetas: resplandor que sigue al cursor */
+.gf-card>.elementor-element,.gf-dark-card>.elementor-element{position:relative;z-index:1}
+@media (hover:hover) and (pointer:fine){
+  .gf-card::before,.gf-dark-card::before{content:"";position:absolute;inset:0;border-radius:inherit;pointer-events:none;opacity:0;z-index:0;transition:opacity .3s ease-out;background:radial-gradient(360px circle at var(--mx,50%) var(--my,50%),rgba(255,105,0,.10),transparent 45%)}
+  .gf-dark-card::before{background:radial-gradient(360px circle at var(--mx,50%) var(--my,50%),rgba(255,105,0,.20),transparent 50%)}
+  .gf-card:hover::before,.gf-dark-card:hover::before{opacity:1}
+}
+
+/* Botones principales: destello al pasar el cursor */
+.gf-btn--primary .elementor-button,.gf-btn--primary-white .elementor-button,.gf-btn--dark .elementor-button,.gf-form .elementor-button{position:relative;overflow:hidden;isolation:isolate}
+.gf-btn--primary .elementor-button::after,.gf-btn--primary-white .elementor-button::after,.gf-btn--dark .elementor-button::after,.gf-form .elementor-button::after{content:"";position:absolute;top:0;bottom:0;left:-80%;width:50%;background:linear-gradient(100deg,transparent,rgba(255,255,255,.42),transparent);transform:skewX(-18deg);pointer-events:none;transition:left .75s var(--gf-ease)}
+.gf-btn--primary .elementor-button:hover::after,.gf-btn--primary-white .elementor-button:hover::after,.gf-btn--dark .elementor-button:hover::after,.gf-form .elementor-button:hover::after{left:130%}
+
+/* Paneles con la red animada: profundidad según el cursor */
+.gf-ph--dark .gf-net:not(.gf-parallax-scroll){transition:transform .7s var(--gf-ease);will-change:transform}
+
+/* Llamadas de atención suaves */
+@keyframes gfGlow{0%,100%{box-shadow:0 0 0 0 rgba(255,105,0,.5)}60%{box-shadow:0 0 0 8px rgba(255,105,0,0)}}
+@keyframes gfFabIn{from{opacity:0;transform:scale(.6) translateY(14px)}to{opacity:1;transform:none}}
+@keyframes gfNudge{0%,100%{transform:none}25%{transform:rotate(-12deg) scale(1.08)}50%{transform:rotate(9deg) scale(1.08)}75%{transform:rotate(-5deg)}}
+@media (prefers-reduced-motion:no-preference){
+  .gf-plan-tag{animation:gfGlow 2.8s ease-in-out infinite}
+  .gf-fab a{animation:gfFabIn .55s cubic-bezier(.2,.8,.2,1.2) .5s backwards,gfNudge .9s ease-in-out 4.5s 2}
+}
+
+/* ---------- Movimiento reducido ---------- */
+@media (prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  .elementor-element.elementor-invisible{visibility:visible!important}
+  .elementor-element.animated{animation:none!important}
+  *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+  .gf-net .gf-net__pulse,.gf-net .gf-net__halo,.gf-net .gf-net__dot{animation:none!important}
+  .gf-hover:hover,.gf-dark-card:hover,.gf-download:hover,.gf-btn .elementor-button:hover,.gf-fab a:hover{transform:none}
+  .gf-segment:hover .gf-ph{transform:none}
+  .gf-ph--dark .gf-net{transform:none!important}
+  .gf-seg::before{transition:none!important;animation:none!important}
+  .gf-seg__opt:active{transform:none}
+  .gf-btn .elementor-button::after,.gf-form .elementor-button::after{display:none}
+}/* End custom CSS */
